@@ -89,4 +89,4 @@ for filename in os.listdir('./commands'):
     if filename.endswith('.py'):
         asyncio.run(bot.load_extension(f'commands.{filename[:-3]}'))
 
-bot.run('MTExMzIxNTMzOTc1NzU4NDQ0NQ.GYyZ3i.wsXF17JtQ4alGQPmJ1bkG-5vvqMu7tyVn8hHYs')
+bot.run('MTEwMzY2NTcxMDYyODA4MTY4NA.Gqz7OA.4Wey8QwerNVyrjK9Lqsfn8Ii-rhH8neZhiGWU4')
